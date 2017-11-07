@@ -34,3 +34,32 @@ header nav {
    color: seashell;
    opacity: 0.9;
  }
+ /*  headerstyling finished
+     begin styling below header */
+  .main {
+       padding-top: 70px;
+       opacity: 0.9;
+       width: 1200px;
+       margin: auto;
+   }
+
+   div{
+     border: 1px solid white;  /* making divs visible*/
+   }
+   .flex-container{
+     display: flex;
+     justify-content: center;
+
+   }
+
+   #mission{
+     height: 700px;
+     background-image: url(../images/img-mission-background.jpg)
+   }
+
+ .mission-content{
+   width: 1200px;
+   margin: auto;
+   background-color: black;
+
+ }
