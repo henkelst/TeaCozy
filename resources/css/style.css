@@ -63,3 +63,11 @@ header nav {
    background-color: black;
 
  }
+/* end styling missionsectin
+   begin styling Tea Feature */
+
+ .tea-feature{
+   width: 1000px;
+   margin: auto;
+   padding-top: 20px;
+ }
