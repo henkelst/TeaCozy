@@ -52,9 +52,9 @@ a {
          margin: auto;
      }
 
-   div{
-     border: 1px solid white;  /* making divs visible*/
-   }
+/*   div{
+     border: 1px solid white;   making divs visible and invisible
+   } */
    .flex-container{
      display: flex;
      justify-content: center;
@@ -138,4 +138,9 @@ a {
    /* contact-section */
       #contact {
        height: 200px;
+   }
+   /* footer */
+   footer {
+       text-align: left;
+       padding-left: 20px;
    }
